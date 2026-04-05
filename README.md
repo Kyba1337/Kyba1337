@@ -62,5 +62,5 @@
 ---
 
 ## Contacts
-- GitHub: https://github.com/your-username  
-- Email: your-email@example.com
+- GitHub: https://github.com/Kyba1337  
+- Email: kyba.dev1337@gmail.com
