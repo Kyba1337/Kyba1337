@@ -1,16 +1,48 @@
-## Hi there 👋
+# Python / MySQL Developer • Technical Administrator
 
-<!--
-**Kyba1337/Kyba1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+Пишу код на Python. Работаю с MySQL. Настраиваю серверы.  
+Делаю системы проще, быстрее и стабильнее.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Python
+- Автоматизация задач
+- Работа с API
+- Парсинг данных
+- Flask, FastAPI
+- pandas, requests
+
+### MySQL
+- SQL-запросы
+- Проектирование БД
+- Оптимизация запросов
+- Индексы
+
+### Administration
+- Linux (Ubuntu, Debian)
+- Docker
+- Nginx
+- Развертывание сервисов
+- Мониторинг
+
+---
+
+## Stack
+`Python` `MySQL` `Linux` `Docker` `Nginx` `Git`
+
+---
+
+## What I do
+- Автоматизирую процессы
+- Пишу backend
+- Настраиваю серверы
+- Оптимизирую базы данных
+
+---
+
+## Contacts
+- GitHub: https://github.com/Kyba1337
+- Email: @example.com
